@@ -1,2 +1,2 @@
-# Introducao_ao_JavaScript
+# Introducao ao JavaScript 💻
 Projeto contador usando o JavaScript
